@@ -18,7 +18,7 @@ Object.defineProperty(exports, "addBasePath", ({
 }));
 const _addpathprefix = __webpack_require__(30893);
 const _normalizetrailingslash = __webpack_require__(61094);
-const basePath =  false || "";
+const basePath = "/github-pages" || 0;
 function addBasePath(path, required) {
     return (0, _normalizetrailingslash.normalizePathTrailingSlash)( false ? 0 : (0, _addpathprefix.addPathPrefix)(path, basePath));
 }
@@ -4500,7 +4500,7 @@ const _warnonce = __webpack_require__(98658);
 const _routercontext = __webpack_require__(17160);
 const _imageloader = /*#__PURE__*/ _interop_require_default._(__webpack_require__(35246));
 // This is replaced by webpack define plugin
-const configEnv = {"deviceSizes":[640,750,828,1080,1200,1920,2048,3840],"imageSizes":[16,32,48,64,96,128,256,384],"path":"/_next/image","loader":"default","dangerouslyAllowSVG":false,"unoptimized":false};
+const configEnv = {"deviceSizes":[640,750,828,1080,1200,1920,2048,3840],"imageSizes":[16,32,48,64,96,128,256,384],"path":"/github-pages/_next/image","loader":"default","dangerouslyAllowSVG":false,"unoptimized":false};
 if (true) {
     globalThis.__NEXT_IMAGE_IMPORTED = true;
 }

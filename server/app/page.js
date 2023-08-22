@@ -300,7 +300,7 @@ module.exports = require("zlib");
 
 /***/ }),
 
-/***/ 32687:
+/***/ 39962:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -332,7 +332,7 @@ __webpack_require__.r(__webpack_exports__);
         children: ['__PAGE__', {}, {
           page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 40436)), "/Users/jithinkjohnson/Documents/flutter projects/scoutyHyde/scoutyhyde-nextjs-web-user/src/app/page.js"],
           metadata: {
-    icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 73881))).default(props))],
+    icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 27198))).default(props))],
     apple: [],
     openGraph: [],
     twitter: [],
@@ -343,7 +343,7 @@ __webpack_require__.r(__webpack_exports__);
         {
           'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 82911)), "/Users/jithinkjohnson/Documents/flutter projects/scoutyHyde/scoutyhyde-nextjs-web-user/src/app/layout.js"],
           metadata: {
-    icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 73881))).default(props))],
+    icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 27198))).default(props))],
     apple: [],
     openGraph: [],
     twitter: [],
@@ -840,7 +840,7 @@ function page() {
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [697,828,354,440,178,839,466], () => (__webpack_exec__(32687)));
+var __webpack_exports__ = __webpack_require__.X(0, [697,828,354,440,178,839,311], () => (__webpack_exec__(39962)));
 module.exports = __webpack_exports__;
 
 })();
